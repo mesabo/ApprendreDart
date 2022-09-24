@@ -55,8 +55,8 @@ The end !
   } */
 
   switch (age) {
-    case 10:
-      print("Je n'ai que 10 ans");
+    case 11:
+      print("Je n'ai que 11 ans");
       break;
     case 18:
       print("Je suis majeur maintenant");
